@@ -1,4 +1,4 @@
-MERN Full-Stack Developer | AI Enthusiast | Building ideas into code Skills: HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • Python • AI/ML • Git me about<br>⚡ Fun fact
+Full-Stack Developer | DevOps | System Architect | Building ideas into code Skills: HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • Python • AI/ML • Git me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
