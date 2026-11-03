@@ -48,12 +48,12 @@ MERN Full-Stack Developer | AI Enthusiast | Building ideas into code Skills: HTM
 | [AI Test Engineering Codex Hackathon](https://github.com/nivas4506/ai-test-engineering-codex-hackathon) | AI-powered test engineering solution | Python • AI • Testing |
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nivas4506&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nivas4506&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nivas4506&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nivas4506&show_icons=true&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=nivas4506&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nivas4506&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nivas4506&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nivas4506&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ life Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
